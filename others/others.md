@@ -74,4 +74,12 @@
 
 !SLIDE
 
+# Upgrading #
+
+!SLIDE center
+
 ![Questions?](lolcats-funny-pictures-questionmark.jpg)
+
+!SLIDE
+
+## http://roro-perth-rails3.heroku.com/ ##
