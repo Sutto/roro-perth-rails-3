@@ -1,1 +1,17 @@
-[ {"section":"one"} ]
+[
+  {"section": "intro"},
+  {"section": "installing"},
+  {"section": "bundler"},
+  {"section": "router"},
+  {"section": "arel"},
+  {"section": "modularity"},
+  {"section": "action_mailer"},
+  {"section": "active_model"},
+  {"section": "ujs"},
+  {"section": "plugin_api"},
+  {"section": "generators"},
+  {"section": "scripts"},
+  {"section": "upgrading"},
+  {"section": "others"},
+  {"section": "resources"}
+]
